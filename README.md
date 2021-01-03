@@ -28,7 +28,7 @@ Ejemplo de grados:
 
 ![](https://github.com/DHDSDesafios/DH_DS_desafio_3/raw/master/data/foto_grados_covid19.jpg)
 
-En este último cuadro podemos ver que pacientes con COVID + pueden tener RX normaless<sup>[3]</sup>.
+En este último cuadro podemos ver que pacientes con COVID + pueden tener RX normales<sup>[3]</sup>.
 
 ![](https://github.com/DHDSDesafios/DH_DS_desafio_3/raw/master/data/table2.jpg)
 ![](https://github.com/DHDSDesafios/DH_DS_desafio_3/raw/master/data/table3.png)
@@ -83,15 +83,15 @@ Con el armado del dataset delegaremos luego en los metodos `train_test_split()` 
 
  ### Referencias
 
- ![1][COVID-19 in the radiology department: What radiographers need to know, Published online Jun 4 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7269964/)
+ [1][COVID-19 in the radiology department: What radiographers need to know](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7269964/). Published online on Jun 4, 2020
  
- ![2][Frequency and Distribution of Chest Radiographic Findings in Patients Positive for COVID-19, Published online Mar 27 2020](https://pubs.rsna.org/doi/10.1148/radiol.2020201160)
+ [2][Frequency and Distribution of Chest Radiographic Findings in Patients Positive for COVID-19](https://pubs.rsna.org/doi/10.1148/radiol.2020201160). Published online on Mar 27, 2020
  
- ![3][A Characteristic Chest Radiographic Pattern in the Setting of COVID-19 Pandemic, Published online Sep 3 2020](https://pubs.rsna.org/doi/10.1148/ryct.2020200280)
+ [3][A Characteristic Chest Radiographic Pattern in the Setting of COVID-19 Pandemic](https://pubs.rsna.org/doi/10.1148/ryct.2020200280). Published online on Sep 3, 2020
  
- ![4][Performance of radiologists in differentiating COVID-19 from viral pneumonia on chest CT, Published online Mar 10 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233414/)
+ [4][Performance of radiologists in differentiating COVID-19 from viral pneumonia on chest CT](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233414/). Published online on Mar 10, 2020
  
- ![5][Comparison of the computed tomography findings in COVID-19 and other viral pneumonia in immunocompetent adults: a systematic review and meta-analysis, Published online Jun 27 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7320914/)
+ [5][Comparison of the computed tomography findings in COVID-19 and other viral pneumonia in immunocompetent adults: a systematic review and meta-analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7320914/). Published online on Jun 27, 2020
  
   ### Integrantes
 
